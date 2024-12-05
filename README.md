@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @Zinhle024<br>👀 I’m interested in building innovative solutions through technology and connecting with like-minded tech enthusiasts.<br>🌱 I’m currently learning Python and enhancing my skills in web development.<br>💞️ I’m looking to collaborate on beginner-friendly open-source projects, creative coding challenges, and anything that sparks curiosity.<br>📫 How to reach me: zeenhlemthimunye@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have a knack for picking up new skills quickly and love turning challenges into opportunities to grow<br>
+ 👋 Hi, I’m @ZinhleCodes<br>👀 I’m interested in building innovative solutions through technology and connecting with like-minded tech enthusiasts.<br>🌱 I’m currently learning Python and enhancing my skills in web development.<br>💞️ I’m looking to collaborate on beginner-friendly open-source projects, creative coding challenges, and anything that sparks curiosity.<br>📫 How to reach me: zeenhlemthimunye@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I have a knack for picking up new skills quickly and love turning challenges into opportunities to grow<br>
 
 
 ## 🌐 Socials:
